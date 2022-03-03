@@ -6,4 +6,4 @@
 
 - fingers crossed
 - this works
-- second test
+- second test using vs code terminal
