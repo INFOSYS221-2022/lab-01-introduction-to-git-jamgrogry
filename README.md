@@ -2,6 +2,7 @@
 
 ## Preamble
 
-In this lab, we will introduce the basics of working with local and remote repositories
+### i am updating the contents
 
-Follow the instructions in your canvas lab assessment for this activity
+- fingers crossed
+- this works
